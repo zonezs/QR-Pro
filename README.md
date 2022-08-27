@@ -1,6 +1,6 @@
 # QR Code Reader Pro
 
-### Privacy Policy
+### Privacy Policy (Aug 27, 2022)
 
 What information do we collect?
 We collect certain information from your mobile device, including but not limited to the following:
