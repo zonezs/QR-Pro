@@ -1,4 +1,4 @@
-# Privacy Policy (Aug 27, 2022)
+# Privacy Policy
 
 What information do we collect?
 We collect certain information from your mobile device, including but not limited to the following:
@@ -29,4 +29,8 @@ This online privacy applies only to information collected through our website an
 Terms and Conditions
 
 * Your Consent: By using our site, you consent to our web site privacy.
-* Contacting Us: If there are any questions regarding this privacy you may contact us at zonezs123@gmail.com.
+* Contacting Us: If there are any questions regarding this privacy you may contact us at zonezs123@gmail.com
+
+Date updated: Aug 2022
+<br>
+Effective date: Aug 2022
