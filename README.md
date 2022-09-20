@@ -3,7 +3,9 @@
 What information do we collect?
 We collect certain information from your mobile device, including but not limited to the following:
 
-* Device and Usage Information that may include(i) information specific to your mobile device (e.g., make, model, operating system, advertising identifier and similar information); (ii) information about your use of features, functions, or notifications on the device; and (iii) signal strength relating to WiFi or Bluetooth functionality, temperature, battery level, and similar technical data.
+* Device and Usage Information that may include(i) information specific to your mobile device (e.g., make, model, operating system, advertising identifier and similar information); (ii) information about your use of features, functions, or notifications on the device; and (iii) signal strength relating to WiFi, temperature, battery level, and similar technical data.
+
+* Our products integrate with Youmeng +SDK, which needs to collect your device Mac address, unique device identification code (IMEI/android ID/IDFA/OPENUDID/IP address/GUID, SIM card IMSI information) to provide statistical analysis services, and calibrate the data accuracy of the report through geographical location to provide basic anti-cheat capabilities.
 
 How We Use the Information We Collect:
 
