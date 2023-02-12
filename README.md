@@ -1,5 +1,3 @@
-# Privacy Policy
-
 What information do we collect?
 We collect certain information from your mobile device, including but not limited to the following:
 
